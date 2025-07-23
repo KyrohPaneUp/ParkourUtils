@@ -1,0 +1,16 @@
+[
+{
+  "modid": "parkourutils",
+  "name": "ParkourUtils",
+  "description": "a library with all the necessary tools to create your own PK Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KyrohPaneUp"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
